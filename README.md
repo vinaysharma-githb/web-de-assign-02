@@ -1,1 +1,24 @@
-# web-de-assign-02
+🌐 CSS Portfolio Website
+
+A personal portfolio website built using only HTML and CSS, showcasing projects, skills, and contact information. Designed to be clean, responsive, and lightweight — perfect for hosting on GitHub Pages or any static site host.
+
+📸 Live Demo
+
+🔗 View Portfolio Live
+
+
+📁 Features
+
+📱 Responsive Design — Works on desktops, tablets, and mobile devices
+
+🎨 Custom CSS Styling — Fully styled with  CSS (no frameworks)
+
+⚡ Fast load time — no JS dependencies or heavy assets
+
+🧱 Tech Stack
+
+HTML5
+
+CSS3
+
+No JavaScript or external frameworks used (unless otherwise stated)
