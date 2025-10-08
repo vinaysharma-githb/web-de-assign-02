@@ -1,10 +1,7 @@
-🌐 CSS Portfolio Website
+
 
 A personal portfolio website built using only HTML and CSS, showcasing projects, skills, and contact information. Designed to be clean, responsive, and lightweight — perfect for hosting on GitHub Pages or any static site host.
 
-📸 Live Demo
-
-🔗 View Portfolio Live
 
 
 📁 Features
@@ -13,12 +10,9 @@ A personal portfolio website built using only HTML and CSS, showcasing projects,
 
 🎨 Custom CSS Styling — Fully styled with  CSS (no frameworks)
 
-⚡ Fast load time — no JS dependencies or heavy assets
 
 🧱 Tech Stack
 
-HTML5
+HTML
 
-CSS3
-
-No JavaScript or external frameworks used (unless otherwise stated)
+CSS
